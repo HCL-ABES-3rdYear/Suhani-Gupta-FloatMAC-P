@@ -9,6 +9,7 @@ The design performs:
 **Y = (A × B) + C**
 
 It uses modular RTL blocks and pipeline registers to organize floating-point multiplication and addition.
+<img width="1774" height="887" alt="ARCHITECTURE_DIAGRAM_FLOAT POINT MAC" src="https://github.com/user-attachments/assets/71e57791-1365-4847-ae0c-41a591bb3b05" />
 
 ## Features
 
